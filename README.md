@@ -2,5 +2,5 @@ I have two branches: master and dev
 
 I want to create a "feature branch" from the dev branch.
 
-$ git checkout -b myFeature dev
-$ git commit -am "Your message"
+1) $ git checkout -b myFeature dev
+2) $ git commit -am "Your message"
